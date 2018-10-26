@@ -7,6 +7,8 @@
   "theme_color": "#0f4a73",
   "display": "standalone",
   "orientation": "portrait",
+  "version": "0.0.0.1",
+  "manifest_version": 2,
   "icons": [{
     "src": "images/icons/icon-256x256.png",
     "sizes": "256x256",
