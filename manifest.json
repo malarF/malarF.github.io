@@ -9,6 +9,8 @@
   "orientation": "portrait",
   "version": "0.0.0.1",
   "manifest_version": 2,
+  "type": "string",
+   "readOnly": true,
   "icons": [{
     "src": "images/icons/icon-256x256.png",
     "sizes": "256x256",
