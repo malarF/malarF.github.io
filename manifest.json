@@ -4,7 +4,7 @@
   "description": "Learn how to create and share something or other.",
   "start_url": "./index.html",
   "background_color": "#000000",
-  "theme_color": "#0f4a73",
+  "theme_color": "#0E1873",
   "display": "standalone",
   "orientation": "portrait",
   "version": "0.0.0.1",
