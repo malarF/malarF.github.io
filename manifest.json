@@ -2,7 +2,7 @@
   "name": "Your Great Site",
   "short_name": "Site",
   "description": "Learn how to create and share something or other.",
-  "start_url": "./landing.html",
+  "start_url": "./index.html",
   "background_color": "#191970",
   "theme_color": "#0E1873",
   "display": "standalone",
